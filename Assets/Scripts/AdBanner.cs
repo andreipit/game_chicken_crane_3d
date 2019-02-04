@@ -12,12 +12,12 @@ public class AdBanner : MonoBehaviour
 
     private void showBannerAd()
     {
-        string adID = "ca-app-pub-1326239630326066/9865718090";
+        string adID = "ca-app-pub-1..6/9..0";
 
         //***For Testing in the Device***
         // AdRequest request = new AdRequest.Builder()
         //.AddTestDevice(AdRequest.TestDeviceSimulator)       // Simulator.
-        //.AddTestDevice("2077ef9a63d2b398840261c8221a0c9b")  // My test device.
+        //.AddTestDevice("2..9b")  // My test device.
         //.Build();
 
         //***For Production When Submit App***
